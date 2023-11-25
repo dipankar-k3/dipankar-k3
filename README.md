@@ -17,6 +17,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipankar-k3&show_icons=true&locale=en&layout=compact" alt="dipankar-k3" /></p>
 
-[My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipankar-k3&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/dipankar-k3)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipankar-k3&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/dipankar-k3)
 
 

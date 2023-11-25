@@ -1,3 +1,5 @@
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=dipankar-k3)
+
 <h1 align="center">Hi 👋, I'm Dipankar Khanra</h1>
 <h3 align="center">A passionate coder on a mission to turn lines of code into innovative solutions and make a positive impact in the tech world.</h3>
 

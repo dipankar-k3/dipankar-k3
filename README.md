@@ -21,7 +21,6 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipankar-k3&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/dipankar-k3)
 
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?username=dipankar-k3)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipankar-k3)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 

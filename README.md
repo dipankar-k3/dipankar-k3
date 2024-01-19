@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on ** HarmonyHub**
 
-- 🌱 I’m currently learning **React JS, React Native, figma **
+- 🌱 I’m currently learning **React JS, React Native, DevOps **
 
-- 💬 Ask me about ** React, React Native, Linux, MongoDB**
+- 💬 Ask me about ** React, React Native, Linux **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

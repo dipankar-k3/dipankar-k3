@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Dipankar Khanra</h1>
 <h3 align="center">A passionate coder on a mission to turn lines of code into innovative solutions and make a positive impact in the tech world.</h3>
 
-- 🔭 I’m currently working on ** HarmonyHub**
+- 🔭 I’m currently working on ** EchoFlow**
 
-- 🌱 I’m currently learning **React JS, React Native, DevOps **
+- 🌱 I’m currently learning **Kubernetes, Docker, AWS **
 
-- 💬 Ask me about ** React, React Native, Linux **
+- 💬 Ask me about ** MERN, DevOps, Linux **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
